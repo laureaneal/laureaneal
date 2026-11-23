@@ -7,16 +7,12 @@
 
 <br>
 
-### <img src="https://api.iconify.design/lucide/user-round.svg?color=%23B794F6" width="19" alt=""/> Sobre mim
+### <img src="https://api.iconify.design/lucide/user-round.svg?color=%23B794F6" width="19" alt=""/>  Sobre mim
 
 Oi! Eu sou a **Lau**, tenho 23 anos e sou formada no técnico em **Desenvolvimento de Sistemas**.
-
 Sempre gostei de tecnologia, mas foi na programação que encontrei uma forma de juntar duas coisas que adoro: **criar e descobrir como tudo funciona**.
-
 Gosto de desenvolver sistemas, montar interfaces e transformar ideias em projetos reais. Tenho explorado tanto o front-end quanto o back-end, aprendendo bastante no processo (e quebrando a cabeça com alguns bugs também).
-
 Ainda estou construindo meu caminho na área e procurando minha primeira oportunidade como desenvolvedora.
-
 Quando não estou programando, provavelmente estou jogando, ouvindo música ou pensando em alguma ideia nova que vou querer colocar em prática.
 
 <br>
@@ -25,7 +21,7 @@ Quando não estou programando, provavelmente estou jogando, ouvindo música ou p
 
 <div align="center">
 
-<h4>Linguagens</h4>
+<h4> Linguagens</h4>
 
 <img src="https://img.shields.io/badge/JavaScript-1B1B2F?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/Python-1B1B2F?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/>
@@ -35,7 +31,7 @@ Quando não estou programando, provavelmente estou jogando, ouvindo música ou p
 
 <br>
 
-<h4>Frameworks e bibliotecas</h4>
+<h4> Frameworks e bibliotecas</h4>
 
 <img src="https://img.shields.io/badge/React-1B1B2F?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
 <img src="https://img.shields.io/badge/React_Native-1B1B2F?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
@@ -44,7 +40,7 @@ Quando não estou programando, provavelmente estou jogando, ouvindo música ou p
 
 <br>
 
-<h4>Bancos de dados e ferramentas</h4>
+<h4> Bancos de dados e ferramentas</h4>
 
 <img src="https://img.shields.io/badge/Firebase-1B1B2F?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase"/>
 <img src="https://img.shields.io/badge/PostgreSQL-1B1B2F?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"/>
@@ -57,7 +53,7 @@ Quando não estou programando, provavelmente estou jogando, ouvindo música ou p
 
 <br>
 
-### <img src="https://api.iconify.design/lucide/gamepad-2.svg?color=%23B794F6" width="19" alt=""/> Além do código
+### <img src="https://api.iconify.design/lucide/gamepad-2.svg?color=%23B794F6" width="19" alt=""/>  Além do código
 
 Nem tudo por aqui é programação. Também gosto de:
 
@@ -69,7 +65,7 @@ Nem tudo por aqui é programação. Também gosto de:
 
 <br>
 
-### <img src="https://api.iconify.design/lucide/link.svg?color=%23B794F6" width="19" alt=""/> Onde me encontrar
+### <img src="https://api.iconify.design/lucide/link.svg?color=%23B794F6" width="19" alt=""/>  Onde me encontrar
 
 <p align="center">
   <a href="https://www.instagram.com/laureane_almeida/">

@@ -1,25 +1,28 @@
 
 <div align="center">
 
-<h1>Oi, eu sou a Lau! 👾</h1>
+# Oi, eu sou a Lau!
 
-<h3>Laureane Almeida</h3>
+### Laureane Almeida
 
-<p>
-  <strong>Desenvolvimento • Criatividade • Um pouco de caos organizado</strong>
-</p>
+**Desenvolvimento • Criatividade • Um pouco de caos organizado**
 
-<h3>
-  <font color="#A78BFA">✦ Mikroverse.code ✦</font>
-</h3>
+<img src="https://img.shields.io/badge/MIKROVERSE.CODE-7C3AED?style=for-the-badge&labelColor=1B1B2F" alt="Mikroverse.code"/>
+
+<br>
+
+<sub>Um cantinho para minhas ideias, códigos e tudo que ainda quero criar.</sub>
 
 </div>
 
 ---
 
-## 💜 Sobre Mim
+<h2>
+  <img src="https://api.iconify.design/lucide/user-round.svg?color=%23A78BFA" width="23" height="23" alt=""/>
+  Sobre Mim
+</h2>
 
-Sou a Laureane, estudante de **Desenvolvimento de Sistemas** e alguém que provavelmente tem mais ideias de projetos do que tempo para terminar todos eles. 😅
+Sou a Laureane, estudante de **Desenvolvimento de Sistemas** e alguém que provavelmente tem mais ideias de projetos do que tempo para terminar todos eles.
 
 Gosto de programação porque posso pegar uma ideia que está só na minha cabeça e transformar em algo que realmente funciona.
 
@@ -31,21 +34,27 @@ Fora do VS Code, provavelmente estou jogando alguma coisa, ouvindo música ou in
 
 ---
 
-## 🌱 Atualmente
+<h2>
+  <img src="https://api.iconify.design/lucide/terminal.svg?color=%23A78BFA" width="23" height="23" alt=""/>
+  Atualmente
+</h2>
 
-- 🎓 Concluí o técnico em **Desenvolvimento de Sistemas**
-- 💻 Estou desenvolvendo minhas habilidades em aplicações web e sistemas completos
-- 🧩 Gosto de resolver problemas e entender como as coisas funcionam
-- 🌱 Tenho estudado React, Python, APIs e bancos de dados
-- 🎯 Estou buscando minha primeira oportunidade como desenvolvedora
+- Concluí o técnico em **Desenvolvimento de Sistemas**
+- Estou desenvolvendo minhas habilidades em aplicações web e sistemas completos
+- Gosto de resolver problemas e entender como as coisas funcionam
+- Tenho estudado React, Python, APIs e bancos de dados
+- Estou buscando minha primeira oportunidade como desenvolvedora
 
 ---
 
-## 🛠️ Meu Cantinho de Tecnologias
+<h2>
+  <img src="https://api.iconify.design/lucide/code-2.svg?color=%23A78BFA" width="23" height="23" alt=""/>
+  Meu Cantinho de Tecnologias
+</h2>
 
 <div align="center">
 
-### Linguagens
+<h3>Linguagens</h3>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-1B1B2F?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-1B1B2F?style=for-the-badge&logo=python&logoColor=3776AB)
@@ -53,14 +62,14 @@ Fora do VS Code, provavelmente estou jogando alguma coisa, ouvindo música ou in
 ![HTML5](https://img.shields.io/badge/HTML5-1B1B2F?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-1B1B2F?style=for-the-badge&logo=css&logoColor=1572B6)
 
-### Frameworks e Bibliotecas
+<h3>Frameworks e Bibliotecas</h3>
 
 ![React](https://img.shields.io/badge/React-1B1B2F?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-1B1B2F?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-1B1B2F?style=for-the-badge&logo=flask&logoColor=FFFFFF)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1B1B2F?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
 
-### Bancos de Dados e Ferramentas
+<h3>Bancos de Dados e Ferramentas</h3>
 
 ![Firebase](https://img.shields.io/badge/Firebase-1B1B2F?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1B1B2F?style=for-the-badge&logo=postgresql&logoColor=4169E1)
@@ -72,21 +81,27 @@ Fora do VS Code, provavelmente estou jogando alguma coisa, ouvindo música ou in
 
 ---
 
-## 🎮 Algumas Coisas Sobre Mim
+<h2>
+  <img src="https://api.iconify.design/lucide/gamepad-2.svg?color=%23A78BFA" width="23" height="23" alt=""/>
+  Algumas Coisas Sobre Mim
+</h2>
 
-🎮 Gosto de games, especialmente daqueles que me fazem perder a noção do tempo.
+**Games** — Gosto de jogos, especialmente daqueles que me fazem perder a noção do tempo.
 
-🌌 Tenho uma queda por coisas com temática espacial, pixel art e interfaces diferentes.
+**Criatividade** — Tenho uma queda por coisas com temática espacial, pixel art e interfaces diferentes.
 
-🎧 Música quase sempre faz parte da minha rotina.
+**Música** — Quase sempre faz parte da minha rotina.
 
-🖥️ Gosto tanto de programar quanto de imaginar como um projeto vai ficar visualmente.
+**Design** — Gosto tanto de programar quanto de imaginar como um projeto vai ficar visualmente.
 
-🐛 Já passei tempo demais procurando um erro que era só um detalhe no código.
+**Programação** — Já passei tempo demais procurando um erro que era só um detalhe no código.
 
 ---
 
-## 🌐 Onde Me Encontrar
+<h2>
+  <img src="https://api.iconify.design/lucide/link.svg?color=%23A78BFA" width="23" height="23" alt=""/>
+  Onde Me Encontrar
+</h2>
 
 <div align="center">
 
@@ -100,10 +115,10 @@ Fora do VS Code, provavelmente estou jogando alguma coisa, ouvindo música ou in
 
 <div align="center">
 
-<h3>✦ Mikroverse.code ✦</h3>
+### ✦ Mikroverse.code ✦
 
-<i>Um espaço para minhas ideias, códigos e tudo que ainda quero criar.</i>
+*Um espaço para minhas ideias, códigos e tudo que ainda quero criar.*
 
-💜
+<sub>Feito com curiosidade, criatividade e algumas tentativas até funcionar.</sub>
 
 </div>

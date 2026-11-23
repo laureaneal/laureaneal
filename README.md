@@ -1,9 +1,13 @@
 
 <div align="center">
-  <img src="./banner-mikroverse.png" alt="Mikroverse.code | Laureane Almeida" width="100%"/>
+
+<img src="./banner-mikroverse.png" alt="Mikroverse.code | Laureane Almeida" width="100%"/>
+
 </div>
 
 <br>
+
+---
 
 ### <img src="https://api.iconify.design/lucide/user-round.svg?color=%23B794F6" width="19" alt=""/> Sobre mim
 
@@ -11,17 +15,21 @@ Olá! Sou **Laureane Almeida**, mas pode me chamar de **Lau**.
 
 Sou formada no curso técnico em **Desenvolvimento de Sistemas** e estou construindo minha carreira na área de tecnologia, com interesse em desenvolvimento web e aplicações full stack.
 
-Durante minha formação, tive a oportunidade de trabalhar com diferentes linguagens, frameworks e bancos de dados, desenvolvendo projetos que me ajudaram a entender melhor cada etapa da criação de um sistema.
+Durante minha formação, tive contato com diferentes linguagens, frameworks e bancos de dados. Também desenvolvi projetos que me permitiram colocar em prática meus conhecimentos e entender melhor as etapas de desenvolvimento de um sistema.
 
-Gosto especialmente de desenvolver interfaces, organizar funcionalidades e encontrar soluções para problemas reais. Também tenho interesse em compreender como o front-end e o back-end se conectam para entregar uma aplicação completa.
+Gosto especialmente de criar interfaces, desenvolver funcionalidades e encontrar soluções para problemas reais.
+
+Tenho explorado tanto o **front-end** quanto o **back-end**, buscando compreender como cada parte de uma aplicação funciona e se conecta.
 
 Atualmente, continuo aprimorando meus conhecimentos por meio de estudos e projetos práticos, enquanto busco minha **primeira oportunidade profissional como desenvolvedora**.
 
 <br>
 
+---
+
 ### <img src="https://api.iconify.design/lucide/code-2.svg?color=%23B794F6" width="19" alt=""/> Tecnologias e ferramentas
 
-Estas são algumas das tecnologias com as quais já tive contato durante meus estudos e projetos.
+Estas são algumas das tecnologias com as quais já trabalhei durante meus estudos e projetos.
 
 #### Linguagens
 
@@ -55,17 +63,23 @@ Estas são algumas das tecnologias com as quais já tive contato durante meus es
 
 <br>
 
+---
+
 ### <img src="https://api.iconify.design/lucide/sparkles.svg?color=%23B794F6" width="19" alt=""/> Além da programação
 
-A tecnologia é uma parte importante da minha rotina, mas meus interesses vão um pouco além do código.
+A tecnologia faz parte da minha rotina, mas meus interesses vão além do código.
 
-Gosto de **games, música, design e tudo que envolve criatividade**. Tenho um carinho especial por pixel art, temas espaciais e interfaces que fogem um pouco do convencional.
+Gosto de **games, música, design e tudo que envolve criatividade**. Tenho um interesse especial por pixel art, temas espaciais e interfaces que fogem um pouco do convencional.
 
-O **Mikroverse.code** surgiu justamente dessa vontade de reunir meu lado criativo com o universo da programação.
+Também gosto de explorar ferramentas, experimentar estilos visuais e pensar em novas ideias para projetos.
 
-É um espaço onde posso compartilhar minha evolução, experimentar novas ideias e construir projetos que tenham um pouco da minha personalidade.
+O **Mikroverse.code** surgiu dessa vontade de reunir meu lado criativo com o universo da programação.
+
+É um espaço para compartilhar minha evolução, desenvolver novas ideias e construir projetos que tenham um pouco da minha personalidade.
 
 <br>
+
+---
 
 ### <img src="https://api.iconify.design/lucide/link.svg?color=%23B794F6" width="19" alt=""/> Onde me encontrar
 
@@ -84,7 +98,7 @@ O **Mikroverse.code** surgiu justamente dessa vontade de reunir meu lado criativ
 
 <div align="center">
 
-**✦ Mikroverse.code ✦**
+### ✦ Mikroverse.code ✦
 
 <sub>Desenvolvimento, criatividade e novas ideias em construção.</sub>
 

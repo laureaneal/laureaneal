@@ -1,25 +1,29 @@
 
 <div align="center">
 
-# Oi, eu sou a Lau! 👾
+<h1>Oi, eu sou a Lau! 👾</h1>
 
-### Laureane Almeida
+<h3>Laureane Almeida</h3>
 
-`desenvolvimento` · `criatividade` · `um pouco de caos organizado`
+<p>
+  <strong>Desenvolvimento • Criatividade • Um pouco de caos organizado</strong>
+</p>
 
-💜 **mikroverse.code**
+<h3>
+  <font color="#A78BFA">✦ Mikroverse.code ✦</font>
+</h3>
 
 </div>
 
 ---
 
-### um pouquinho sobre mim
+## 💜 Sobre Mim
 
-Sou a Laureane, estudante de Desenvolvimento de Sistemas e alguém que provavelmente tem mais ideias de projetos do que tempo para terminar todos eles. 😅
+Sou a Laureane, estudante de **Desenvolvimento de Sistemas** e alguém que provavelmente tem mais ideias de projetos do que tempo para terminar todos eles. 😅
 
 Gosto de programação porque posso pegar uma ideia que está só na minha cabeça e transformar em algo que realmente funciona.
 
-Tenho me aventurado tanto no front-end quanto no back-end. Gosto de criar interfaces, pensar nos detalhes e, principalmente, descobrir como fazer tudo funcionar junto.
+Tenho me aventurado tanto no **Front-end** quanto no **Back-end**. Gosto de criar interfaces, pensar nos detalhes e, principalmente, descobrir como fazer tudo funcionar junto.
 
 Ainda tenho muita coisa para aprender, mas é justamente essa a parte que mais gosto na tecnologia: sempre aparece alguma coisa nova para descobrir.
 
@@ -27,9 +31,9 @@ Fora do VS Code, provavelmente estou jogando alguma coisa, ouvindo música ou in
 
 ---
 
-### atualmente...
+## 🌱 Atualmente
 
-- 🎓 Concluí o técnico em Desenvolvimento de Sistemas
+- 🎓 Concluí o técnico em **Desenvolvimento de Sistemas**
 - 💻 Estou desenvolvendo minhas habilidades em aplicações web e sistemas completos
 - 🧩 Gosto de resolver problemas e entender como as coisas funcionam
 - 🌱 Tenho estudado React, Python, APIs e bancos de dados
@@ -37,38 +41,38 @@ Fora do VS Code, provavelmente estou jogando alguma coisa, ouvindo música ou in
 
 ---
 
-### meu cantinho de tecnologias
+## 🛠️ Meu Cantinho de Tecnologias
 
 <div align="center">
 
-**Linguagens**
+### Linguagens
 
-![JavaScript](https://img.shields.io/badge/JavaScript-1b1b2f?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-1b1b2f?style=for-the-badge&logo=python&logoColor=3776AB)
-![C#](https://img.shields.io/badge/C%23-1b1b2f?style=for-the-badge&logo=dotnet&logoColor=9B4F96)
-![HTML](https://img.shields.io/badge/HTML5-1b1b2f?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS3-1b1b2f?style=for-the-badge&logo=css&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-1B1B2F?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-1B1B2F?style=for-the-badge&logo=python&logoColor=3776AB)
+![C#](https://img.shields.io/badge/C%23-1B1B2F?style=for-the-badge&logo=dotnet&logoColor=9B4F96)
+![HTML5](https://img.shields.io/badge/HTML5-1B1B2F?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1B1B2F?style=for-the-badge&logo=css&logoColor=1572B6)
 
-**Frameworks e bibliotecas**
+### Frameworks e Bibliotecas
 
-![React](https://img.shields.io/badge/React-1b1b2f?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-1b1b2f?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-1b1b2f?style=for-the-badge&logo=flask&logoColor=FFFFFF)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-1b1b2f?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![React](https://img.shields.io/badge/React-1B1B2F?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-1B1B2F?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-1B1B2F?style=for-the-badge&logo=flask&logoColor=FFFFFF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1B1B2F?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
 
-**Banco de dados e ferramentas**
+### Bancos de Dados e Ferramentas
 
-![Firebase](https://img.shields.io/badge/Firebase-1b1b2f?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1b1b2f?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![SQLite](https://img.shields.io/badge/SQLite-1b1b2f?style=for-the-badge&logo=sqlite&logoColor=03A9F4)
-![Git](https://img.shields.io/badge/Git-1b1b2f?style=for-the-badge&logo=git&logoColor=F05032)
-![VS Code](https://img.shields.io/badge/VS_Code-1b1b2f?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Firebase](https://img.shields.io/badge/Firebase-1B1B2F?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1B1B2F?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![SQLite](https://img.shields.io/badge/SQLite-1B1B2F?style=for-the-badge&logo=sqlite&logoColor=03A9F4)
+![Git](https://img.shields.io/badge/Git-1B1B2F?style=for-the-badge&logo=git&logoColor=F05032)
+![VS Code](https://img.shields.io/badge/VS_Code-1B1B2F?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 
 </div>
 
 ---
 
-### algumas coisas sobre mim
+## 🎮 Algumas Coisas Sobre Mim
 
 🎮 Gosto de games, especialmente daqueles que me fazem perder a noção do tempo.
 
@@ -82,13 +86,13 @@ Fora do VS Code, provavelmente estou jogando alguma coisa, ouvindo música ou in
 
 ---
 
-### onde me encontrar
+## 🌐 Onde Me Encontrar
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-1b1b2f?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/laureane_almeida/)
+[![Instagram](https://img.shields.io/badge/Instagram-1B1B2F?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/laureane_almeida/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-1b1b2f?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/laureaneal)
+[![GitHub](https://img.shields.io/badge/GitHub-1B1B2F?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/laureaneal)
 
 </div>
 
@@ -96,9 +100,9 @@ Fora do VS Code, provavelmente estou jogando alguma coisa, ouvindo música ou in
 
 <div align="center">
 
-`mikroverse.code`
+<h3>✦ Mikroverse.code ✦</h3>
 
-*um espaço para minhas ideias, códigos e tudo que ainda quero criar.*
+<i>Um espaço para minhas ideias, códigos e tudo que ainda quero criar.</i>
 
 💜
 

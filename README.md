@@ -1,6 +1,8 @@
 
 <div align="center">
-  <img src="./banner-mikroverse.png" alt="Mikroverse.code | Laureane Almeida" width="100%">
+
+<img src="./banner-mikroverse.png" alt="Mikroverse.code | Laureane Almeida" width="100%">
+
 </div>
 
 <br>
@@ -12,17 +14,28 @@
   &nbsp;Sobre mim
 </h3>
 
-<p>Olá! Sou <strong>Laureane Almeida</strong>, mas pode me chamar de <strong>Lau</strong>.</p>
+Olá! Sou **Laureane Almeida**, mas pode me chamar de **Lau**.
 
-<p>Sou formada no curso técnico em <strong>Desenvolvimento de Sistemas</strong> e estou construindo minha carreira na área de tecnologia, com interesse em desenvolvimento web e aplicações full stack.</p>
+Sou formada no curso técnico em **Desenvolvimento de Sistemas** e estou construindo minha carreira como desenvolvedora, com foco em aplicações web e full stack.
 
-<p>Durante minha formação, tive contato com diferentes linguagens, frameworks e bancos de dados. Também desenvolvi projetos que me permitiram colocar em prática meus conhecimentos e entender melhor as etapas de desenvolvimento de um sistema.</p>
+Gosto de criar interfaces, desenvolver funcionalidades e transformar ideias em soluções práticas. Durante minha formação, tive a oportunidade de trabalhar com diferentes tecnologias e participar do desenvolvimento de sistemas completos.
 
-<p>Gosto especialmente de criar interfaces, desenvolver funcionalidades e encontrar soluções para problemas reais.</p>
+Atualmente, continuo aprimorando meus conhecimentos em front-end, back-end e bancos de dados, enquanto busco minha **primeira oportunidade profissional na área de desenvolvimento**.
 
-<p>Tenho explorado tanto o <strong>front-end</strong> quanto o <strong>back-end</strong>, buscando compreender como cada parte de uma aplicação funciona e se conecta.</p>
+<br>
 
-<p>Atualmente, continuo aprimorando meus conhecimentos por meio de estudos e projetos práticos, enquanto busco minha <strong>primeira oportunidade profissional como desenvolvedora</strong>.</p>
+---
+
+<h3>
+  <img src="https://api.iconify.design/lucide/layers-3.svg?color=%23B794F6" width="21" height="21" alt="">
+  &nbsp;O que gosto de desenvolver
+</h3>
+
+- **Aplicações web:** sistemas responsivos, com interfaces organizadas e funcionais.
+- **Front-end:** desenvolvimento de componentes, páginas e experiências de navegação.
+- **Back-end:** APIs REST, autenticação e integração com bancos de dados.
+- **Sistemas de gestão:** organização de informações, cadastros, consultas e controle de processos.
+- **Acessibilidade:** interfaces mais intuitivas e acessíveis para diferentes usuários.
 
 <br>
 
@@ -33,7 +46,7 @@
   &nbsp;Tecnologias e ferramentas
 </h3>
 
-<p>Estas são algumas das tecnologias com as quais já trabalhei durante meus estudos e projetos.</p>
+Estas são algumas das tecnologias com as quais já trabalhei durante meus estudos e projetos.
 
 <h4>Linguagens</h4>
 
@@ -74,15 +87,13 @@
   &nbsp;Além da programação
 </h3>
 
-<p>A tecnologia faz parte da minha rotina, mas meus interesses vão além do código.</p>
+A tecnologia faz parte da minha rotina, mas meus interesses vão além do código.
 
-<p>Gosto de <strong>games, música, design e tudo que envolve criatividade</strong>. Tenho um interesse especial por pixel art, temas espaciais e interfaces que fogem um pouco do convencional.</p>
+Gosto de **games, música, design e tudo que envolve criatividade**. Tenho um interesse especial por pixel art, temas espaciais e interfaces que fogem um pouco do convencional.
 
-<p>Também gosto de explorar ferramentas, experimentar estilos visuais e pensar em novas ideias para projetos.</p>
+O **Mikroverse.code** surgiu dessa vontade de reunir meu lado criativo com o universo da programação.
 
-<p>O <strong>Mikroverse.code</strong> surgiu dessa vontade de reunir meu lado criativo com o universo da programação.</p>
-
-<p>É um espaço para compartilhar minha evolução, desenvolver novas ideias e construir projetos que tenham um pouco da minha personalidade.</p>
+É um espaço para compartilhar minha evolução, experimentar novas ideias e construir projetos que tenham um pouco da minha personalidade.
 
 <br>
 

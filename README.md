@@ -3,11 +3,6 @@
 
 <img src="./banner-mikroverse.png" alt="Mikroverse.code | Laureane Almeida" width="100%"/>
 
-<br>
-
-<img src="https://img.shields.io/badge/Desenvolvimento_de_Sistemas-211832?style=flat-square&labelColor=211832&color=7C3AED" alt="Desenvolvimento de Sistemas"/>
-<img src="https://img.shields.io/badge/Full_Stack_em_formação-211832?style=flat-square&labelColor=211832&color=7C3AED" alt="Full Stack em formação"/>
-
 </div>
 
 <br>
@@ -23,17 +18,6 @@ Gosto de desenvolver sistemas, montar interfaces e transformar ideias em projeto
 Ainda estou construindo meu caminho na área e procurando minha primeira oportunidade como desenvolvedora.
 
 Quando não estou programando, provavelmente estou jogando, ouvindo música ou pensando em alguma ideia nova que vou querer colocar em prática.
-
-<br>
-
-### <img src="https://api.iconify.design/lucide/terminal.svg?color=%23B794F6" width="19" alt=""/> No momento
-
-```text
-formação       Desenvolvimento de Sistemas
-foco           Desenvolvimento Web / Full Stack
-estudando      React, Python, APIs e Banco de Dados
-objetivo       Primeira oportunidade como Dev
-```
 
 <br>
 
@@ -87,16 +71,14 @@ Nem tudo por aqui é programação. Também gosto de:
 
 ### <img src="https://api.iconify.design/lucide/link.svg?color=%23B794F6" width="19" alt=""/> Onde me encontrar
 
-<div align="center">
-
-<a href="https://www.instagram.com/laureane_almeida/">
-  <img src="https://img.shields.io/badge/Instagram-211832?style=for-the-badge&logo=instagram&logoColor=B794F6" alt="Instagram"/>
-</a>
-<a href="https://github.com/laureaneal">
-  <img src="https://img.shields.io/badge/GitHub-211832?style=for-the-badge&logo=github&logoColor=B794F6" alt="GitHub"/>
-</a>
-
-</div>
+<p align="center">
+  <a href="https://www.instagram.com/laureane_almeida/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://github.com/laureaneal">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 <br>
 
